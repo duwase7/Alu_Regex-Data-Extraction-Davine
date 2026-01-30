@@ -6,7 +6,7 @@ The sample input uses **Inyange Industries** as the example company to make the 
  It includes:
 
 - **Emails:** Employee or contact emails (e.g.,  `davine.uwase@inyange.rw`).  
-- **URLs:** Company website links (`https://www.inyange.rw/support`).  
+- **URLs:** Company website links (`https://www.inyange.rw/support` `http://catalog.inyange.rw/products`).  
 - **Phone Numbers:** Customer support or office lines in multiple formats.  
 - **Credit Card Numbers:** Example payment data (masked in output for security).  
 - **Times:** Meeting times in both 12-hour and 24-hour formats.  
