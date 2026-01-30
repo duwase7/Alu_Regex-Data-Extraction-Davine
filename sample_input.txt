@@ -1,0 +1,20 @@
+Hello Team,
+
+For inquiries about Inyange products, contact davine.uwase@inyange.rw
+ or visit our portal at https://www.inyange.rw/support
+.
+You can also check our product catalog at http://catalog.inyange.rw/products
+.
+
+Customer service is available at (078) 987‑6543, (078) 836097
+
+Accepted payment methods include 5678‑1234‑9012‑3456 and 5678 1234 9012 3456.
+Please ensure payment details are submitted securely.
+
+Scheduled delivery times are 08:00 and 10:15 AM.
+
+Examples of invalid or unsafe input that should be ignored:
+invalid@@inyange.rw, 0000‑0000‑0000‑0000, <script>alert('hack')</script>
+
+Thank you,
+Inyange Customer Operations Team
