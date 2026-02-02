@@ -38,6 +38,7 @@ patterns = {
 
 
 if __name__ == "__main__":
+    print("Starting data extraction for Inyange Industries input...")
     input_text = load_text("sample_input.txt")
     extracted_results = extract_data(input_text, patterns)
 
