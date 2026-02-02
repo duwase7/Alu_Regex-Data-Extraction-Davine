@@ -35,10 +35,10 @@ patterns = {
     "currency": r"\$\d{1,3}(?:,\d{3})*(?:\.\d{2})?"
 }
 
+
 if __name__ == "__main__":
     input_text = load_text("sample_input.txt")
     extracted_results = extract_data(input_text, patterns)
 
     print("=== Extracted Data from Inyange Industries Text ===")
-    print(json.dumps(extracted_results, indent=4))
-
+    print(json.dumps(extracted_results, indent=4)) 
