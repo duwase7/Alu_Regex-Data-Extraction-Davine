@@ -11,7 +11,7 @@ def mask_credit_cards(card_list):
     
         masked_card = re.sub(r'(\d{4}[- ]\d{4})[- ]\d{4}[- ]\d{4}', r'\1-****-****', card)
         masked.append(masked_card)
-    return masked
+    return masked 
 
 def extract_data(text, patterns_dict):
     results = {}
