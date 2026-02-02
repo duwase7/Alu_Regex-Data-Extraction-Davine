@@ -43,3 +43,4 @@ if __name__ == "__main__":
 
     print("=== Extracted Data from Inyange Industries Text ===")
     print(json.dumps(extracted_results, indent=4)) 
+    print("Data extraction completed successfully.")
